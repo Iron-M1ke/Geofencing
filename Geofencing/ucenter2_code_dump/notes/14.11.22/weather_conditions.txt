@@ -1,0 +1,8 @@
+Terrible weather conditions today, horrible fog + mild rain. 
+
+Affected receiver data?
+
+Happened throughout whole day: Morning, Midday, Afternoon, Evening.
+
+-
+OC,QI,WA:14.11.22:16:23
